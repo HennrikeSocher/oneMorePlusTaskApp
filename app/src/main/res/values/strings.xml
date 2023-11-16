@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">One More TaskApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Buscar</string>
+    <string name="sort_by_high_priority">Filtrar por alta prioridade</string>
+    <string name="delete_all">Deletar todas</string>
+    <string name="enter_task">Adicionar Tarefa</string>
+    <string name="add">Adicionar</string>
+    <string name="update">Atualizar</string>
+    <string-array name="priorities">
+        <item>Alta Prioridade</item>
+        <item>Media Prioridade</item>
+        <item>Baixa Prioridade</item>
+    </string-array>
+</resources>
