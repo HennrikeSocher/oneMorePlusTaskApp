@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121911683805",
+    "project_id": "one-more-plus-todo-list",
+    "storage_bucket": "one-more-plus-todo-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121911683805:android:c6a6f45c77babc76978934",
+        "android_client_info": {
+          "package_name": "com.android.kotlinmvvmtodolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQDcz_qmjU86HUSWKb2YGvj5SZu25jMHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
